@@ -1,9 +1,9 @@
 ---
 layout: posts
-permalink: /machine-learning/
-title: "Machine Learning Posts by Tags"
+permalink: /Mardown Language/
+title: "Teaching and Learning"
 author_profile: true
 header:
-  image: "/images/p3.jpg"
+  image: "/images/p4.jpg"
 ---
 
