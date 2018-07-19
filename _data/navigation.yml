@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Learning and Teaching"
+  - title: "Teaching & Learning"
     url: /markdown/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
