@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning Project: Perceptron"
+title: "ftn Perceptron"
 date: 2018-01-28
 tags: [machine learning, data science, neural network]
 header:
-  image: "/images/perceptron/p5.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
+  image: "/images/perceptron/danang3.jpg"
+excerpt: "Tennis, Statistics, Math"
 mathjax: "true"
 ---
 
