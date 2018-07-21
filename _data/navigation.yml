@@ -4,6 +4,10 @@ main:
     url: /about/
   - title: "Teaching & Learning"
     url: /markdown/
+  - title: "page1"
+    url: /page1/
+  - title: "page2"
+    url: /page2/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
