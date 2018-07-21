@@ -1,4 +1,4 @@
---
+---
 title: "Page2"
 permalink: /page2/
 header:
