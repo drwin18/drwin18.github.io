@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/p1.jpg"
+  image: "/images/danang4.jpg"
 ---
 
 Dr. Francois Nguyen has been an Instructor at Saint Paul Technical College for 24 years, teaching Math, ESL, AutoCAD and Emerging Technology. He provides training opportunities for adults who want to have better careers in the global community. He has coordinated the St. Paul Connections Program, which provides urban high school students the opportunity to explore Vocational Education. He is a strong advocate for technology equity. Francois is also a prominent leader in the Asian community of Minnesota, and has served as an Asian leader in both non-profit and governmental agencies related to educational policy. He received the Lieutenant Governor's Award for Community Service in 1993. 
